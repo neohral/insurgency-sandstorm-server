@@ -31,9 +31,7 @@ git pull origin main
 
 start.batの設定追加
 
-GameStatsToken
-
-https://gamestats.sandstorm.game/
+[GameStatsTokenの取得先](https://gamestats.sandstorm.game/)
 
 #### GSLTToken(コミュニティサーバーに表示する向け)
 
@@ -41,9 +39,7 @@ start.batの設定追加
 
 `581320` を指定してトークンを取得。
 
-GSLTToken
-
-https://steamcommunity.com/dev/managegameservers
+[GSLTTokenの取得先](https://steamcommunity.com/dev/managegameservers)
 
 
 ###  mod.ioのOAuth Accessトークン
