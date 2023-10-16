@@ -27,16 +27,19 @@ git pull origin main
 
 ポートとか好きにいじる。GameStatsTokenとGSLTTokenは下を見てくれれば
 
-#### GameStatsToken
+#### GameStatsToken(経験値取得向け)
+
 start.batの設定追加
 
 GameStatsToken
 
 https://gamestats.sandstorm.game/
 
-#### GSLTToken
+#### GSLTToken(コミュニティサーバーに表示する向け)
 
 start.batの設定追加
+
+`581320` を指定してトークンを取得。
 
 GSLTToken
 
