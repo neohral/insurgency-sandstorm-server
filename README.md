@@ -55,6 +55,10 @@ AccessToken=ここに取得したトークンを記載
 
 ### 入れてるmod
 
+2023/10/16時点では使えてそう
+
+[ここにあるやつ](Insurgency/Config/Server/Mods.txt)
+
 * https://mod.io/g/insurgencysandstorm/m/more-ammo-mutator
 * https://mod.io/g/insurgencysandstorm/m/medicon
 * https://mod.io/g/insurgencysandstorm/m/arbusto
