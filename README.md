@@ -1,10 +1,29 @@
 # sandstorm_server
 
+とりあえずmodありでサーバー建てる用
+
 ## ここを参考にしてます。
 
 https://mod.io/g/insurgencysandstorm/r/server-admin-guide
 
 ## 初期設定
+### steamCMDでインストール
+
+https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip
+
+```
+login anonymous
+app_update 581330 validate
+```
+
+### このプロジェクトはインストール後のディレクトリがルートディレクトリになるので、設定ファイルもろもろを入れる
+
+```
+git init
+git remote add origin https://github.com/neohral/sandstorm_server.git
+git pull origin main
+```
+
 ### start.batの設定
 
 ポートとか好きにいじる。GameStatsTokenとGSLTTokenは下を見てくれれば
@@ -40,5 +59,5 @@ AccessToken=ここに取得したトークンを記載
 * https://mod.io/g/insurgencysandstorm/m/medicon
 * https://mod.io/g/insurgencysandstorm/m/arbusto
 * https://mod.io/g/insurgencysandstorm/m/improvedai
-** https://mod.io/g/insurgencysandstorm/m/zcore
+  * https://mod.io/g/insurgencysandstorm/m/zcore
 * https://mod.io/g/insurgencysandstorm/m/healthbarplus
