@@ -3,7 +3,6 @@
 とりあえずmodありでサーバー建てる用
 
 ## ここを参考にしてます。
-
 https://mod.io/g/insurgencysandstorm/r/server-admin-guide
 
 ## 初期設定
@@ -45,6 +44,9 @@ https://steamcommunity.com/dev/managegameservers
 
 
 ###  mod.ioのOAuth Accessトークン
+
+[GameUserSettings.ini](Insurgency/Saved/Config/WindowsServer/GameUserSettings.ini)に反映する。
+
 https://mod.io/me/access
 
 ```
