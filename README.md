@@ -54,7 +54,7 @@ bHasUserAcceptedTerms=True
 AccessToken=ここに取得したトークンを記載
 ```
 
-### 入れてるmod
+## 入れてるmod
 
 2023/10/16時点では使えてそう
 
@@ -66,3 +66,8 @@ AccessToken=ここに取得したトークンを記載
 * https://mod.io/g/insurgencysandstorm/m/improvedai
   * https://mod.io/g/insurgencysandstorm/m/zcore
 * https://mod.io/g/insurgencysandstorm/m/healthbarplus
+
+## クライアント向け
+
+コミュニティサーバ一覧から入ればよさそう  
+IPから入る場合は、日本語キーボードだと入力できないので英字キーボードを追加して入力する画面で切り替えること。
