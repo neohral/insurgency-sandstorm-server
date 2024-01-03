@@ -54,11 +54,17 @@ bHasUserAcceptedTerms=True
 AccessToken=ここに取得したトークンを記載
 ```
 
+### adminの設定
+[Admins.txt](Insurgency/Config/Server/Admins.txt)を作成または編集して中に自分のSteamID64(以下サイトなどで調べてください)を記入
+https://www.utage-csgo.com/single-post/check-steamid
+
+ゲーム中numpadの「-」を押下することでマップ変えたりできる(modありの場合は建てた後にマップを変えないと反映されない)
+
 ## 入れてるmod
 
-2023/10/16時点では使えてそう
+2024/01/01時点では使えてそう
 
-[ここにあるやつ](Insurgency/Config/Server/Mods.txt)
+[ここにあるやつ](Insurgency/Config/Server/Admins.txt)
 
 * https://mod.io/g/insurgencysandstorm/m/more-ammo-mutator
 * https://mod.io/g/insurgencysandstorm/m/medicon
@@ -71,3 +77,5 @@ AccessToken=ここに取得したトークンを記載
 
 コミュニティサーバ一覧から入ればよさそう  
 IPから入る場合は、日本語キーボードだと入力できないので英字キーボードを追加して入力する画面で切り替えること。
+
+##
